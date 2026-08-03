@@ -103,3 +103,4 @@ C:\vsProjects\MiniBankingSystem\MiniBank.Tests\obj\Debug\net10.0\refint\MiniBank
 C:\vsProjects\MiniBankingSystem\MiniBank.Tests\obj\Debug\net10.0\MiniBank.Tests.pdb
 C:\vsProjects\MiniBankingSystem\MiniBank.Tests\obj\Debug\net10.0\MiniBank.Tests.genruntimeconfig.cache
 C:\vsProjects\MiniBankingSystem\MiniBank.Tests\obj\Debug\net10.0\ref\MiniBank.Tests.dll
+C:\vsProjects\MiniBankingSystem\MiniBank.Tests\obj\Debug\net10.0\MiniBank.Tests.sourcelink.json

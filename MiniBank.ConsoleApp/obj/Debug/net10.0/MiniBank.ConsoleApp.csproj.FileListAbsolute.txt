@@ -16,3 +16,4 @@ c:\vsProjects\MiniBankingSystem\MiniBank.ConsoleApp\obj\Debug\net10.0\refint\Min
 c:\vsProjects\MiniBankingSystem\MiniBank.ConsoleApp\obj\Debug\net10.0\MiniBank.ConsoleApp.pdb
 c:\vsProjects\MiniBankingSystem\MiniBank.ConsoleApp\obj\Debug\net10.0\MiniBank.ConsoleApp.genruntimeconfig.cache
 c:\vsProjects\MiniBankingSystem\MiniBank.ConsoleApp\obj\Debug\net10.0\ref\MiniBank.ConsoleApp.dll
+c:\vsProjects\MiniBankingSystem\MiniBank.ConsoleApp\obj\Debug\net10.0\MiniBank.ConsoleApp.sourcelink.json

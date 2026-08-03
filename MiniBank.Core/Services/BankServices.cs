@@ -77,7 +77,7 @@ public class BankServices : IBankServices {
         var fromAccountTransaction = new Transaction(fromAccount, TransactionType.Transfer, amount, $"Account with Account Number {fromAccount} transfered {amount}$ to Account with Account Number {toAccount}");
         currentFromAccount.AddTransaction(fromAccountTransaction);
 
-        var toAccountTransaction = new Transaction(fromAccount, TransactionType.Transfer, amount, $"Account with Account Number {toAccount} got an amount {amount}$ from Account with Account Number {fromAccount}");
+        var toAccountTransaction = new Transaction(toAccount, TransactionType.Transfer, amount, $"Account with Account Number {toAccount} got an amount {amount}$ from Account with Account Number {fromAccount}");
         currentFromAccount.AddTransaction(toAccountTransaction);
 
         _accountRepository.Update(currentFromAccount);

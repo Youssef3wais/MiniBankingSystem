@@ -173,7 +173,7 @@ public class Program {
 
         Console.WriteLine($"\n--- Accounts for Customer #{customerId} ---");
         foreach (var acc in accounts) {
-            Console.WriteLine($"Account #{acc.AccountNumber} | Type: {acc.GetType} | Balance: ${acc.Balance}");
+            Console.WriteLine($"Account #{acc.AccountNumber} | Type: {acc.GetType().Name} | Balance: ${acc.Balance}");
         }
     }
 }

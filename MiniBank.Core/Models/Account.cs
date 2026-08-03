@@ -8,7 +8,7 @@ public abstract class Account {
     private static int _nextAccountNumber = 100;
     public required int AccountNumber { get; init; }
     public required Customer Customer { get; init; }
-    public required decimal Balance { get; set; }
+    public decimal Balance { get; protected set; }
     public required DateTime CreateDate { get; init; }
 
     private readonly List<Transaction> _transactions = new List<Transaction>();
