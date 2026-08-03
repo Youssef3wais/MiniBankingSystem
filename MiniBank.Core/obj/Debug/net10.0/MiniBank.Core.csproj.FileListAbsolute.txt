@@ -1,0 +1,11 @@
+C:\vsProjects\MiniBankingSystem\MiniBank.Core\bin\Debug\net10.0\MiniBank.Core.deps.json
+C:\vsProjects\MiniBankingSystem\MiniBank.Core\bin\Debug\net10.0\MiniBank.Core.dll
+C:\vsProjects\MiniBankingSystem\MiniBank.Core\bin\Debug\net10.0\MiniBank.Core.pdb
+C:\vsProjects\MiniBankingSystem\MiniBank.Core\obj\Debug\net10.0\MiniBank.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsProjects\MiniBankingSystem\MiniBank.Core\obj\Debug\net10.0\MiniBank.Core.AssemblyInfoInputs.cache
+C:\vsProjects\MiniBankingSystem\MiniBank.Core\obj\Debug\net10.0\MiniBank.Core.AssemblyInfo.cs
+C:\vsProjects\MiniBankingSystem\MiniBank.Core\obj\Debug\net10.0\MiniBank.Core.csproj.CoreCompileInputs.cache
+C:\vsProjects\MiniBankingSystem\MiniBank.Core\obj\Debug\net10.0\MiniBank.Core.dll
+C:\vsProjects\MiniBankingSystem\MiniBank.Core\obj\Debug\net10.0\refint\MiniBank.Core.dll
+C:\vsProjects\MiniBankingSystem\MiniBank.Core\obj\Debug\net10.0\MiniBank.Core.pdb
+C:\vsProjects\MiniBankingSystem\MiniBank.Core\obj\Debug\net10.0\ref\MiniBank.Core.dll
